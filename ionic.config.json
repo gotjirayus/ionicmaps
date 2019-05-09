@@ -1,0 +1,7 @@
+{
+  "name": "mapsendgame",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
